@@ -10,8 +10,8 @@ import os
 from osgeo import gdal
 
 # Specify the input and output folders
-input_folder = 'D:/BayernAtlas/Würzburg'
-output_folder = 'D:/BayernAtlas/Würzburg_resampled'
+input_folder = 'Path to the input folder'
+output_folder = 'Path to the output folder'
 
 # Define the resolution
 px = 0.5
